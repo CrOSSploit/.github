@@ -1,3 +1,4 @@
-# CrOSSploit
+<h1 align=center>CrOSSploit</h1>
+<h2 align=center>WE ARE RECRUITING!</h2>
 
-### things are still being setup around here
+<p>the form will be out soon :)</p>
