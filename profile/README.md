@@ -12,7 +12,7 @@ A ChromeOS security research group building tools to make Chromebook modificatio
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-ChromeOS-red">
   <img src="https://img.shields.io/badge/Type-Security%20Research-blue">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen">
+  <img src="https://img.shields.io/badge/Recruitment-Active-brightgreen">
 </p>
 
 ---
