@@ -46,6 +46,15 @@ GitHub: https://github.com/AceOfSpades1061
 
 ---
 
+### MintyGVT
+**Developer**
+
+we don't rlly know what he does so i just put him as a developer
+
+GitHub: https://github.com/MintyGVT
+
+---
+
 ### fortifiedfork  
 **Emotional Support**
 
