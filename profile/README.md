@@ -6,12 +6,12 @@
 ---
 
 <p align="center">
-A ChromeOS security research group building tools to make Chromebook modification easier and accessible.
+A ChromeOS research group that builds tools and utilities.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-ChromeOS-red">
-  <img src="https://img.shields.io/badge/Type-Security%20Research-blue">
+  <img src="https://img.shields.io/badge/Type-%20Research-blue">
   <img src="https://img.shields.io/badge/Recruitment-Active-brightgreen">
 </p>
 
@@ -19,7 +19,7 @@ A ChromeOS security research group building tools to make Chromebook modificatio
 
 ## What We Do
 
-CrOSSploit is a small but focused ChromeOS security research group dedicated to exploring,
+CrOSSploit is a small but focused ChromeOS research group dedicated to exploring,
 understanding, and responsibly abusing design flaws in ChromeOS management and restriction systems.
 
 ### Our focus areas include:
@@ -32,7 +32,9 @@ understanding, and responsibly abusing design flaws in ChromeOS management and r
   We build scripts and tools that make modifying a Chromebook as easy as possible.
   no unnecessary complexity, no hand-holding nonsense.
 
----
+- **Detection Evasion**
+
+  We make tools to stop you from being detected as unenrolled and makes your chromebook blend in and disguise as an enrolled Chromebook.
 
 ## Members
 
